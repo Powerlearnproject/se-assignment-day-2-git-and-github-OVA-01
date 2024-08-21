@@ -39,4 +39,4 @@ Issues are used to track projects and report bugs on GitHub while project boards
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 
-Not understanding the concept and system is a challenge.  A good way to overcome this is through learning the tools and playing around with the system. Also, having an agreed-upon best practice by a team, and providing effective training and support can help resolve common challenges.
+Not understanding the concept and system is a challenge. A good way to overcome this is through learning the tools and playing around with the system. Also, having an agreed-upon best practice by a team, and providing effective training and support can help resolve common challenges.
